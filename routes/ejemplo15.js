@@ -1,10 +1,14 @@
 //sentencia if - else
-var x = 0;
-if(x)={
-      Console.log("true");
+function contarA (cadena) {
+var contA=0;
+var i=0;
+while (i<=cadena.length){
+	if (cadena [i] == "a") {
+		contA ++;
+     } 
+ i++;
+    }
+ return contA;
 }
-else {
-      Console.log("false");
-}
-//if - else resumido
-Console.log(x?"true":"false");
+console.log("la cantidad de A es");
+console.log(contarA("hola roxana"));

@@ -1,6 +1,6 @@
 //operador boleano
-Console.log(!4);
-Console.log(!"hola");
+console.log(!4);
+console.log(!"hola");
 //ejemplo
 var y = 1;
-Console.log(!!y);
+console.log(!!y);

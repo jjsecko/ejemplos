@@ -1,4 +1,4 @@
 //operador de igualdad
-Console.log("4"==="04");
-Console.log(0===0.0);
-Console.log("Hi"==="Hi");
+console.log("4"==="04");
+console.log(0===0.0);
+console.log("Hi"==="Hi");

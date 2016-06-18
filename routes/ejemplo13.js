@@ -1,3 +1,3 @@
 //operador de comparacion
-Console.log(1<2);
-Console.log("a"<"b");
+console.log(1<2);
+console.log("a"<"b");

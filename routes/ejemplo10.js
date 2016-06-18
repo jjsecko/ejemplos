@@ -5,8 +5,8 @@ var z = 2;
 //y= ++z+y
 //Console.log(y);
 y= y +z++;
-Console.log(y);
-Console.log(z);
+console.log(y);
+console.log(z);
 
 
 //resta
@@ -15,5 +15,5 @@ z = 2;
 //y= --z-y
 //Console.log(y);
 y= y -z--;
-Console.log(y);
-Console.log(z);
+console.log(y);
+console.log(z);

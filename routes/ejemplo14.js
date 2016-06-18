@@ -1,10 +1,11 @@
 //sentencia if - else
 var x = 0;
-if(x)={
-      Console.log("true");
+if(x)
+{
+      console.log("true");
 }
 else {
-      Console.log("false");
+      console.log("false");
 }
 //if - else resumido
-Console.log(x?"true":"false");
+console.log(x?"true":"false");
